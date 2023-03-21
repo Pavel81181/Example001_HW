@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\bin\Debug\net6.0\EXAMPLE007_Cycl.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\bin\Debug\net6.0\EXAMPLE007_Cycl.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\bin\Debug\net6.0\EXAMPLE007_Cycl.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\bin\Debug\net6.0\EXAMPLE007_Cycl.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\bin\Debug\net6.0\EXAMPLE007_Cycl.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\refint\EXAMPLE007_Cycl.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\EXAMPLE007_Cycl.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE007_Cycl\obj\Debug\net6.0\ref\EXAMPLE007_Cycl.dll
