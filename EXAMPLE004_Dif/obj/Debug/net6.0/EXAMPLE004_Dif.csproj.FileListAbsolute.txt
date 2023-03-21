@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\bin\Debug\net6.0\EXAMPLE004_Dif.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\bin\Debug\net6.0\EXAMPLE004_Dif.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\bin\Debug\net6.0\EXAMPLE004_Dif.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\bin\Debug\net6.0\EXAMPLE004_Dif.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\bin\Debug\net6.0\EXAMPLE004_Dif.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\refint\EXAMPLE004_Dif.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\EXAMPLE004_Dif.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE004_Dif\obj\Debug\net6.0\ref\EXAMPLE004_Dif.dll
