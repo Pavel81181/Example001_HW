@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\bin\Debug\net6.0\EXAMPLE005_If.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\bin\Debug\net6.0\EXAMPLE005_If.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\bin\Debug\net6.0\EXAMPLE005_If.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\bin\Debug\net6.0\EXAMPLE005_If.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\bin\Debug\net6.0\EXAMPLE005_If.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\refint\EXAMPLE005_If.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\EXAMPLE005_If.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE005_If\obj\Debug\net6.0\ref\EXAMPLE005_If.dll
