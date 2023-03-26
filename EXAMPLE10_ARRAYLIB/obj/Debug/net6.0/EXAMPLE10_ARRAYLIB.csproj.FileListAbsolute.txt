@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\bin\Debug\net6.0\EXAMPLE10_ARRAYLIB.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\bin\Debug\net6.0\EXAMPLE10_ARRAYLIB.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\bin\Debug\net6.0\EXAMPLE10_ARRAYLIB.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\bin\Debug\net6.0\EXAMPLE10_ARRAYLIB.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\bin\Debug\net6.0\EXAMPLE10_ARRAYLIB.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\refint\EXAMPLE10_ARRAYLIB.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\EXAMPLE10_ARRAYLIB.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE10_ARRAYLIB\obj\Debug\net6.0\ref\EXAMPLE10_ARRAYLIB.dll
