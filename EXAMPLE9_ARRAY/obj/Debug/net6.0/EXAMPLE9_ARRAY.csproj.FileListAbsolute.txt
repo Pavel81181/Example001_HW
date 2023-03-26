@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\bin\Debug\net6.0\EXAMPLE9_ARRAY.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\bin\Debug\net6.0\EXAMPLE9_ARRAY.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\bin\Debug\net6.0\EXAMPLE9_ARRAY.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\bin\Debug\net6.0\EXAMPLE9_ARRAY.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\bin\Debug\net6.0\EXAMPLE9_ARRAY.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\refint\EXAMPLE9_ARRAY.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\EXAMPLE9_ARRAY.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE9_ARRAY\obj\Debug\net6.0\ref\EXAMPLE9_ARRAY.dll
