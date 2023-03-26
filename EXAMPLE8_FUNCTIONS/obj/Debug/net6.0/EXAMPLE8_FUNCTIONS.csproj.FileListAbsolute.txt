@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\bin\Debug\net6.0\EXAMPLE8_FUNCTIONS.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\bin\Debug\net6.0\EXAMPLE8_FUNCTIONS.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\bin\Debug\net6.0\EXAMPLE8_FUNCTIONS.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\bin\Debug\net6.0\EXAMPLE8_FUNCTIONS.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\bin\Debug\net6.0\EXAMPLE8_FUNCTIONS.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\refint\EXAMPLE8_FUNCTIONS.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\EXAMPLE8_FUNCTIONS.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE8_FUNCTIONS\obj\Debug\net6.0\ref\EXAMPLE8_FUNCTIONS.dll
