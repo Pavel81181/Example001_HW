@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\bin\Debug\net6.0\EXAMPLE16_Palec.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\bin\Debug\net6.0\EXAMPLE16_Palec.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\bin\Debug\net6.0\EXAMPLE16_Palec.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\bin\Debug\net6.0\EXAMPLE16_Palec.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\bin\Debug\net6.0\EXAMPLE16_Palec.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\refint\EXAMPLE16_Palec.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\EXAMPLE16_Palec.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE16_Palec\obj\Debug\net6.0\ref\EXAMPLE16_Palec.dll

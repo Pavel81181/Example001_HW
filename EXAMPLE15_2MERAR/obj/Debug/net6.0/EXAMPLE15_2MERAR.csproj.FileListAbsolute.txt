@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\bin\Debug\net6.0\EXAMPLE15_2MERAR.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\bin\Debug\net6.0\EXAMPLE15_2MERAR.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\bin\Debug\net6.0\EXAMPLE15_2MERAR.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\bin\Debug\net6.0\EXAMPLE15_2MERAR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\bin\Debug\net6.0\EXAMPLE15_2MERAR.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\refint\EXAMPLE15_2MERAR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\EXAMPLE15_2MERAR.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE15_2MERAR\obj\Debug\net6.0\ref\EXAMPLE15_2MERAR.dll

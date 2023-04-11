@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\bin\Debug\net6.0\EXAMPLE12_FOR.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\bin\Debug\net6.0\EXAMPLE12_FOR.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\bin\Debug\net6.0\EXAMPLE12_FOR.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\bin\Debug\net6.0\EXAMPLE12_FOR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\bin\Debug\net6.0\EXAMPLE12_FOR.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\refint\EXAMPLE12_FOR.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\EXAMPLE12_FOR.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE12_FOR\obj\Debug\net6.0\ref\EXAMPLE12_FOR.dll

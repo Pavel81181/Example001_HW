@@ -38,7 +38,7 @@ int IndexOf(int[] collection, int find)
 }
 
 
-int [] array = new int[10];
+int [] array = new int[20];
 FillArray(array);
 //array[2] = 4;
 //array[6] = 4;

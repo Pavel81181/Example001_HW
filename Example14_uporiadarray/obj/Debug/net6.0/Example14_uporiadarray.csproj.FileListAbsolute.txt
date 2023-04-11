@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\bin\Debug\net6.0\Example14_uporiadarray.exe
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\bin\Debug\net6.0\Example14_uporiadarray.deps.json
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\bin\Debug\net6.0\Example14_uporiadarray.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\bin\Debug\net6.0\Example14_uporiadarray.dll
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\bin\Debug\net6.0\Example14_uporiadarray.pdb
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.dll
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\refint\Example14_uporiadarray.dll
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.pdb
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\Example14_uporiadarray.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\Example14_uporiadarray\obj\Debug\net6.0\ref\Example14_uporiadarray.dll

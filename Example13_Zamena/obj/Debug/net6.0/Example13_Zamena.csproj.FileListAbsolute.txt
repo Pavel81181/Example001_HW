@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\bin\Debug\net6.0\Example13_Zamena.exe
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\bin\Debug\net6.0\Example13_Zamena.deps.json
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\bin\Debug\net6.0\Example13_Zamena.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\bin\Debug\net6.0\Example13_Zamena.dll
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\bin\Debug\net6.0\Example13_Zamena.pdb
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.dll
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\refint\Example13_Zamena.dll
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.pdb
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\Example13_Zamena.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\Example13_Zamena\obj\Debug\net6.0\ref\Example13_Zamena.dll

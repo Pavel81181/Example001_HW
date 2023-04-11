@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\bin\Debug\net6.0\EXAMPLE17_FACT.exe
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\bin\Debug\net6.0\EXAMPLE17_FACT.deps.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\bin\Debug\net6.0\EXAMPLE17_FACT.runtimeconfig.json
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\bin\Debug\net6.0\EXAMPLE17_FACT.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\bin\Debug\net6.0\EXAMPLE17_FACT.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\refint\EXAMPLE17_FACT.dll
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.pdb
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\EXAMPLE17_FACT.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Examples\EXAMPLE17_FACT\obj\Debug\net6.0\ref\EXAMPLE17_FACT.dll
